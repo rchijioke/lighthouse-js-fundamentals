@@ -23,8 +23,6 @@ while (n >= 0) {
     }
     else{
         console.log("T-"+n+" seconds");
-    }
+    }}
 
     //Never forget to decrement/increment the iteration variable in a while loop
-    // Otherwise, you loop will run infinite iterations
-    n = n-1;
